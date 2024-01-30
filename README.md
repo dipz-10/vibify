@@ -1,2 +1,1 @@
-#vibe with Vibify
-Vibify music player
+# Vibify-Clone
