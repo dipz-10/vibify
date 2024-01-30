@@ -1,2 +1,2 @@
-# vibify
-vibify music player
+#vibe with Vibify
+Vibify music player
